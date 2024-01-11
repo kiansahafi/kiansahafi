@@ -40,6 +40,5 @@
     </div>
 </div>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kiansahafi)](https://github.com/kiansahafi/github-readme)
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/kiansahafi?theme=dark&font=Noto%20Sans%20Lycian&ext=activity)
